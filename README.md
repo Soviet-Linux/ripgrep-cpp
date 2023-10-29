@@ -60,14 +60,14 @@ after you are done with this step open a terminal in src folder and wrtie \
 ```g++ -Ofast main.cpp -o rg-cpp```
 
 ### Optional Step for windows only
-If you want to make this executable from anywhere do the bellow \
-Firstly you must have done the above and have generated the .exe file \
-1) if you have done that then go ahead and make a folder at the root of your disk (aka C:\) and copy the exe to it \
-2) after that go and type at windows search ```Edit Environment Variables``` and click on edit system environment variables \
-3) a new window will appear in this window click ```Environment Variables``` \
-4) a new window will appear again in this scroll down in the system variables section until you see ```Path``` when you see it double click it \
-5) a new window displaying all the PATH variables will be displayed press new then type the path to the exe like so ```C:\FOLDERTHATHOUSESEXE``` then press enter \
-6) after this click ok then ok on the previous window then apply and ok on the last \
-7) just reopen any terminal you had open and you will be able to just type ```rg-cpp --version``` and see the ripgrep-cpp version \
+If you want to make this executable from anywhere do the bellow
+Firstly you must have done the above and have generated the .exe file 
+1) if you have done that then go ahead and make a folder at the root of your disk (aka C:\) and copy the exe to it 
+2) after that go and type at windows search ```Edit Environment Variables``` and click on edit system environment variables 
+3) a new window will appear in this window click ```Environment Variables``` 
+4) a new window will appear again in this scroll down in the system variables section until you see ```Path``` when you see it double click it 
+5) a new window displaying all the PATH variables will be displayed press new then type the path to the exe like so ```C:\FOLDERTHATHOUSESEXE``` then press enter 
+6) after this click ok then ok on the previous window then apply and ok on the last 
+7) just reopen any terminal you had open and you will be able to just type ```rg-cpp --version``` and see the ripgrep-cpp version 
 
 Created with luv 💙 by JohnVictoryz aka tutel
